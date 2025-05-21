@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SonnyBat/SonnyBat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Sonny
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎓 I'm a Computer Science student based in England, currently studying at university and set to graduate in **2026**.  
+🥊 A boxing enthusiast, gaming nerd, and passionate traveler — wherever I lay my hat, that’s my home.
+
+
+---
+
+## 🛠 Tech Stack
+
+ 🌐 **Frontend:** HTML, CSS, JavaScript, TailwindCSS  
+ 💻 **Backend / Other:** Java  
+ 🎨 **Design & Deployment:** Figma, Netlify  
+
+
+---
+
+## 🚀 Goals & Growth
+
+I'm focused on:
+Building full-stack applications using **Java** and modern frameworks  
+ Exploring **Spring Boot** to develop scalable, production-ready backend services  
+Practicing **data structures and algorithms** to strengthen problem-solving skills
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SonnyBat&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonnyBat&layout=compact&theme=default)
+
+
+---
+
+## 🌍 Let's Connect
+
+
+ 🌐 Portfolio: Coming soon!  
+ 📊 Visitor Count:  
+![Visitor Count](https://komarev.com/ghpvc/?username=SonnyBat&color=blue)
+
+---
+
+_**"Wherever I lay my hat, that’s my home."**_
+</div>
+
