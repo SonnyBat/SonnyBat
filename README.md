@@ -38,7 +38,8 @@ Practicing **data structures and algorithms** to strengthen problem-solving skil
 
 ## 🌍 Let's Connect
 
-
+ 📷 https://www.instagram.com/sonny.software/
+ ✉️ Sonny.Software@outlook.com
  🌐 Portfolio: Coming soon!  
  📊 Visitor Count:  
 ![Visitor Count](https://komarev.com/ghpvc/?username=SonnyBat&color=blue)
