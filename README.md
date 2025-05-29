@@ -21,7 +21,7 @@
 
 ## 🚀 Goals & Growth
 
-I'm focused on:
+I'm currently focused on:
 Building full-stack applications using **Java** and modern frameworks  
  Exploring **Spring Boot** to develop scalable, production-ready backend services  
 Practicing **data structures and algorithms** to strengthen problem-solving skills
