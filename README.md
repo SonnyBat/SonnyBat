@@ -12,8 +12,8 @@
 
 ## 🛠 Tech Stack
 
- 🌐 **Frontend:** HTML, CSS, JavaScript, TailwindCSS  
- 💻 **Backend / Other:** Java  
+ 🌐 **Frontend:** HTML, CSS, JavaScript, TailwindCSS, React  
+ 💻 **Backend / Other:** Java, Springboot  
  🎨 **Design & Deployment:** Figma, Netlify  
 
 
